@@ -1,3 +1,5 @@
+一个分布式社交网络，目标是对抗Facebook。 
+
 Diaspora*
 
 Diaspora is a privacy-aware, personally-controlled, do-it-all open source social network. Check out our [project site](http://diasporaproject.org).
